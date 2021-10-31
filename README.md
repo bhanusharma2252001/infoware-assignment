@@ -9,18 +9,16 @@ Choose a database and build schema of your choice
 
 Tasks: Build Node.js Endpoints
 
-  A)
-For Website Owner:
+  A) For Website Owner:
 
-Add account
-Add products
-View Orders
+1. Add account
+2. Add products
+3. View Orders
 
-   B)
-For End Customers
+  B) For End Customers
 
-Add account
-Login
-Browse Products
-Order products(no payment integration)
-View Orders
+4. Add account
+5. Login
+6. Browse Products
+7. Order products(no payment integration)
+8. View Orders
